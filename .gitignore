@@ -22,3 +22,6 @@ control_sorted.csv
 test_unique_client_id.csv
 time_differ1_test.csv
 time_differ1_control.csv
+test_avg_time_spent_per_step.csv
+control_avg_time_spent_per_step.csv
+
