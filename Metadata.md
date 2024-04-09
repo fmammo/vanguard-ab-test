@@ -1,4 +1,4 @@
-Metadata
+Metadata/Column description
 
 client_id: Every client’s unique ID.
 variation: Indicates if a client was part of the experiment.

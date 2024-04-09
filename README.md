@@ -9,6 +9,19 @@ Test group: clients interacted with the new digital interface
 
 Both groups navigated through an identical 5 step process.
 
+DEPENDENCIES
+
+* Python 3.X
+* Pandas
+* NumPy
+* Matplotlib
+* Seaboarn
+* Scipy
+* Defaultdict
+* Time
+* Datetime
+* Stats
+
 MAIN GOAL
 
 The goal is to see if the new design leads to a better user experience and higher process completion rates. Which means the main problem statement is “Would these changes encourage more clients to complete the process?” 
