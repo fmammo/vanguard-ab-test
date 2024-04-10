@@ -42,8 +42,7 @@ Especially considering the error rate in taste group; I recommend these three as
 * Get feedback from the users
 * Do the tests with more control and test group 
 
-Dataset and data visualizations can be found in below links:
+Data source can be found in below links:
 
 Dataset: https://github.com/data-bootcamp-v4/lessons/tree/main/5_6_eda_inf_stats_tableau/project/files_for_project
-Data visualization: https://public.tableau.com/app/profile/feven.legesse/viz/Project_2_17120063067350/Story1?publish=yes
 
